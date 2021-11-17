@@ -38,5 +38,5 @@ end run''' "$branches"
 ```
 
 # VSCode extension demo 
-- [demo code](https://github.com/Mrooze-zeng/test-demo) only support MacOS
+- [demo code](https://github.com/Mrooze-zeng/pull-all-branches) only support MacOS
 - extension [download](https://marketplace.visualstudio.com/items?itemName=mrooze.pull-all)

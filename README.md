@@ -36,3 +36,7 @@ osascript -e '''on run argv
 end run''' "$branches"
 
 ```
+
+# VSCode extension demo 
+- [demo code](https://github.com/Mrooze-zeng/test-demo) only support MacOS
+- extension [download](https://marketplace.visualstudio.com/items?itemName=mrooze.pull-all)
